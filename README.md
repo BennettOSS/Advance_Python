@@ -8,6 +8,7 @@ Some advance concepts of Python. Series taken by [@Devyanshu](https://github.com
 
 |   Name   | Score |
 |:--------:|:-----:|
+| Kartikay |   4   |
 | Arjun009 |   3   |
 |  Prachi  |   3   |
 
