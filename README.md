@@ -10,9 +10,9 @@ Some advance concepts of Python. Series taken by [@Devyanshu](https://github.com
 |:--------:|:-----:|
 | Arjun009 |   12  |
 | Aryan Lala |   8 |
+|  SaiSudhamsa|   8   |
 | Kartikay |   7   |
 | Aryan    |   4   |
-|  SaiSudhamsa|   4   |
 |  Prachi  |   3   |
 
 #### Leaderboard will be updated every week. Make sure that you make a pull request before the next class.
